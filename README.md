@@ -4,7 +4,6 @@ Virtual Machine Learning Internship Program
 During the internship, i have hands-on experience on five real-world projects
 
 - Table of Contents:
---
 
 1- Housing price prediction using Multiple Linear Regression algorithm.
 
