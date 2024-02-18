@@ -5,6 +5,7 @@ During the internship, i have hands-on experience on five real-world projects
 
 - Table of Contents:
 --
+
 1- Housing price prediction using Multiple Linear Regression algorithm.
 
 2- Clustering using K-Means algorithm.
