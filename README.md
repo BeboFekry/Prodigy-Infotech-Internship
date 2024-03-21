@@ -13,7 +13,7 @@ During the internship, i have hands-on experience on five real-world projects
 
 4- Hand Gesture classification using Deep Learning - Convolutional Neural Network CNN architecture.
 
-5- Food Classification then predict calories using Deep Learning.
+5- Food Classification then identify calories using Deep Learning.
 
   
 in addition to the part of Data Analysis, Preprocessing and Visualization.
